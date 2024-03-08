@@ -1,4 +1,4 @@
-# custom-search-replace
+# Custom search replace plugin
 
 # **Розробка плагіна для WordPress**
 
