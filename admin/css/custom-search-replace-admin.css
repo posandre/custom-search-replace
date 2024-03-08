@@ -1,0 +1,30 @@
+.custom-search-replace__container .message{
+    text-align: center;
+    padding: 40px 0;
+}
+
+.custom-search-replace__container .message--error{
+    color: red;
+}
+
+.custom-search-replace__container .message--success{
+    color: green;
+}
+
+.custom-search-replace__container .widefat .check-column {
+    text-align: center;
+}
+
+.custom-search-replace__container .widefat th input {
+    margin-left: 0;
+    width: 100%;
+}
+
+.custom-search-replace__container .widefat th input[type="text"] {
+    margin-bottom:8px;
+}
+
+.custom-search-replace__container .widefat th input[type="submit"], .custom-search-replace__container .tablenav input[type="submit"] {
+    background: black;
+    color: white;
+}
