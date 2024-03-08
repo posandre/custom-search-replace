@@ -1,6 +1,6 @@
 # Custom search replace plugin
 
-## **Розробка плагіна для WordPress**
+## Розробка плагіна для WordPress**
 
 **Мета завдання:**
 
