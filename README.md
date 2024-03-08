@@ -23,4 +23,4 @@
     - Використовувати PHP (ООП), JS (JQuery), Ajax, WP hooks (action, filters).
     - Для формування Meta-title і Meta-description використовувати плагін Yoast SEO.
  - **Зразок макета**
-      <img width="1130" alt="image" src="https://github.com/posandre/custom-search-replace/assets/45790427/5fef2376-986b-49c2-84ce-4703922b013f">
+      <img width="800" alt="image" src="https://github.com/posandre/custom-search-replace/assets/45790427/5fef2376-986b-49c2-84ce-4703922b013f">
